@@ -12,4 +12,6 @@
 
 💬 Discord: jules#6751
 
+🌐 Website: https://julesg10.github.io/web/
+
 ![stats](https://github-readme-stats.vercel.app/api?username=julesG10&show_icons=true&theme=dark)
