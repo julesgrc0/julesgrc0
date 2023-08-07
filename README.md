@@ -10,7 +10,7 @@
 
 ✉️ Email: jules10avrg@gmail.com
 
-💬 Discord: julesgrc
+💬 Discord: @julesgrc
 
 🌐 Website: https://julesgrc0.github.io/web/
 
