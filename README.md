@@ -1,4 +1,4 @@
-<h1 align="center">👋 Wellcome </h1>
+<h1 align="center">👋 Welcome</h1>
 <br>
 
 [![](https://komarev.com/ghpvc/?username=julesgrc0&color=green)]()
