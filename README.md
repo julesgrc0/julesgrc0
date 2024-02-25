@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/School-Rennes%201%20📚-orange)]()
 [![](https://img.shields.io/badge/Status-Student%20🎓-purple)]()
 
-> Hi, I'm Jules, a French student at the University of Rennes 1. I'm studying computer science and I love coding !
+> Hi, I'm Jules, a computer science student at the University of Rennes 1.
 
 <br>
 
@@ -29,9 +29,8 @@
 
 ## 🎉 Some of my projects
 
+[![Wispy](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=FFS&theme=omni)](https://github.com/julesgrc/wispy)
 
 [![ADR](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=ADR&theme=omni)](https://github.com/julesgrc/ADR)
-
-[![FFS](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=FFS&theme=omni)](https://github.com/julesgrc/FFS)
 
 [![FlouFlix](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=FlouFlix&theme=omni)](https://github.com/julesgrc/FlouFlix)
