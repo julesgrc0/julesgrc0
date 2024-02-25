@@ -29,8 +29,8 @@
 
 ## 🎉 Some of my projects
 
-[![Wispy](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=wispy&theme=omni)](https://github.com/julesgrc0/wispy)
-
 [![ADR](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=ADR&theme=omni)](https://github.com/julesgrc0/ADR)
+
+[![Wispy](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=wispy&theme=omni)](https://github.com/julesgrc0/wispy)
 
 [![FlouFlix](https://github-readme-stats.vercel.app/api/pin/?username=julesgrc0&repo=FlouFlix&theme=omni)](https://github.com/julesgrc0/FlouFlix)
